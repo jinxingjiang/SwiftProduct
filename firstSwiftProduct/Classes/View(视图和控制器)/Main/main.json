@@ -1,0 +1,41 @@
+[
+  {
+    "vistorInfo" : {
+      "imageName" : "",
+      "message" : "关注一些人，回这里看看有什么惊喜"
+    },
+    "className" : "JLHomeViewController",
+    "title" : "首页",
+    "imageName" : "home"
+  },
+  {
+    "vistorInfo" : {
+      "imageName" : "visitordiscover_image_message",
+      "message" : "登录后，别人评论你的微博，发给你的消息，都会在这里收到通知"
+    },
+    "className" : "JLMessageViewController",
+    "title" : "信息",
+    "imageName" : "message_center"
+  },
+  {
+    "className" : "UIViewController"
+  },
+  {
+    "vistorInfo" : {
+      "imageName" : "visitordiscover_image_message",
+      "message" : "登录后，最新、最热微博尽在掌握，不再会与实事潮流擦肩而过"
+    },
+    "className" : "JLDiscoverViewController",
+    "title" : "发现",
+    "imageName" : "discover"
+  },
+  {
+    "vistorInfo" : {
+      "imageName" : "visitordiscover_image_profile",
+      "message" : "登录后，你的微博、相册、个人资料会显示在这里，展示给别人"
+    },
+    "className" : "JLProfileViewController",
+    "title" : "我",
+    "imageName" : "profile"
+  }
+]
